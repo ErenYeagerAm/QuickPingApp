@@ -1,6 +1,6 @@
 {
   "api": "https://ccpanel-z9nz3pck8qoo3ay.zarinkar.org",
-  "dl": "https://cpanel-ak27jd7rkywkika.zarinkar.org",
   "shield": "https://cpanel-otxyu622yfme26d.zarinkar.org",
-  "ws": "cpanel-wsapi-k92urra2te2dgrr.zarinkar.org"
+  "download": "https://cpanel-ak27jd7rkywkika.zarinkar.org",
+  "websocket": "cpanel-wsapi-k92urra2te2dgrr.zarinkar.org"
 }
