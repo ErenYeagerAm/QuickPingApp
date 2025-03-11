@@ -15,6 +15,5 @@
     "telegram":"https://t.me/QuickPing/130",
     "website":"https://quickping.app/app/quick.exe"
   },
-  "ip_lookup": "https://api.ipify.org",
-  "ping_destination": "https://www.google.com/generate_204"
+  "ip_lookup": "https://api.ipify.org"
 }
