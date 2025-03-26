@@ -16,7 +16,7 @@
     "telegram":"https://t.me/QuickPing/130",
     "website":"https://quickping.app/app/quick.exe"
   },
-  "shield": {
+  "shield_urls": {
     "malware":[
         "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
         "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
