@@ -15,5 +15,46 @@
   "windows_download": {
     "telegram":"https://t.me/QuickPing/130",
     "website":"https://quickping.app/app/quick.exe"
+  },
+  "shield": {
+    "malware":[
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/malware.srs",
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/cryptominers.srs"
+    ],
+    "ads-trackers":[
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-ads-all.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-public-tracker.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/tracker.srs"
+    ],
+    "phishing":[
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/phishing.srs"
+    ],
+    "porn":[
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-porn.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Porn.srs"
+    ],
+    "gov":[
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ir.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ru.srs"
+    ],
+    "social":[
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-!cn.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-cn.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-ir.srs"
+    ],
+    "crypto":[
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-cryptocurrency.srs",
+        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Crypto.srs"
+    ],
+    "ir":[
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
+        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs"
+    ]    
   }
 }
