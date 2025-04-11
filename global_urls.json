@@ -3,6 +3,10 @@
   "shield": "https://cpanel-2cdhxscoaq7fyrm.netmonitoring.ir",
   "download": "https://cpanel-po5uuj792hoi626.netmonitoring.ir",
   "websocket": "cpanel-wsapi-5xonyxm7ch5dret.netmonitoring.ir",
+  "alternative_api": "https://ccpanel-rdoiv8ae63cbnz2.netmonitoring.ir",
+  "alternative_shield": "https://ccpanel-rdoiv8ae63cbnz2.netmonitoring.ir",
+  "alternative_download": "https://ccpanel-rdoiv8ae63cbnz2.netmonitoring.ir",
+  "alternative_websocket": "https://ccpanel-rdoiv8ae63cbnz2.netmonitoring.ir",
   "vip_purchase": "https://t.me/QuickPingBot?start=buy",
   "android_download": {
     "google_play":"https://play.google.com/store/apps/details?id=org.quickping",
