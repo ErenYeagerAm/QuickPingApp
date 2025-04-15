@@ -28,17 +28,8 @@
         "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/cryptominers.srs"
     ],
-    "ads_trackers":[
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-ads-all.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-public-tracker.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/tracker.srs"
-    ],
-    "phishing":[
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/phishing.srs"
-    ],
+    "ads_trackers":[],
+    "phishing":[],
     "porn":[
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-porn.srs",
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Porn.srs"
