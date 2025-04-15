@@ -47,11 +47,7 @@
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ir.srs",
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ru.srs"
     ],
-    "social":[
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-!cn.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-cn.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-ir.srs"
-    ],
+    "social":[],
     "crypto":[
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-cryptocurrency.srs",
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Crypto.srs"
