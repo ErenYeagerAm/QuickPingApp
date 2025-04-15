@@ -40,6 +40,8 @@
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/phishing.srs"
     ],
     "porn":[
+         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-porn.srs",
+         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Porn.srs"
     ],
     "gov":[
         "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ir.srs",
