@@ -9,47 +9,57 @@
   "alternative_websocket": "cpanel-wsapi-5xonyxm7ch5dret.netmonitoring.ir",
   "vip_purchase": "https://t.me/QuickPingBot?start=buy",
   "android_download": {
-    "google_play":"https://play.google.com/store/apps/details?id=org.quickping",
-    "telegram":"https://t.me/QuickPing/130",
-    "website":"https://quickping.app/app/quick.apk"
+    "google_play": "https://play.google.com/store/apps/details?id=org.quickping",
+    "telegram": "https://t.me/QuickPing/130",
+    "website": "https://quickping.app/app/quick.apk"
   },
   "ios_download": {
-    "app_store":"https://apps.apple.com/us/app/"
+    "app_store": "https://apps.apple.com/us/app/"
   },
   "windows_download": {
-    "telegram":"https://t.me/QuickPing/130",
-    "website":"https://quickping.app/app/quick.exe"
+    "telegram": "https://t.me/QuickPing/130",
+    "website": "https://quickping.app/app/quick.exe"
   },
-  "remote_shield_urls_enabled":true,
+  "remote_shield_urls_enabled": true,
   "shield_urls": {
-    "malware":[
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/malware.srs",
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/cryptominers.srs"
+    "malware": [
+      "https://quickserver.storage.c2.liara.space/geosite-malware.srs",
+      "https://quickserver.storage.c2.liara.space/geoip-malware.srs",
+      "https://quickserver.storage.c2.liara.space/malware.srs",
+      "https://quickserver.storage.c2.liara.space/geosite-cryptominers.srs",
+      "https://quickserver.storage.c2.liara.space/cryptominers.srs"
     ],
-    "ads_trackers":[],
-    "phishing":[],
-    "porn":[
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Porn.srs"
+    "ads_trackers": [
+      "https://quickserver.storage.c2.liara.space/geosite-category-ads-all.srs",
+      "https://quickserver.storage.c2.liara.space/category-ads-all.srs",
+      "https://quickserver.storage.c2.liara.space/category-public-tracker.srs",
+      "https://quickserver.storage.c2.liara.space/tracker.srs"
     ],
-    "gov":[
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ir.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ru.srs"
+    "phishing": [
+      "https://quickserver.storage.c2.liara.space/geosite-phishing.srs",
+      "https://quickserver.storage.c2.liara.space/geoip-phishing.srs",
+      "https://quickserver.storage.c2.liara.space/phishing.srs"
     ],
-    "social":[
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-!cn.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-cn.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-ir.srs"
+    "porn": [
+      "https://quickserver.storage.c2.liara.space/category-porn.srs",
+      "https://quickserver.storage.c2.liara.space/Porn.srs"
     ],
-    "crypto":[
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-cryptocurrency.srs",
-        "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Crypto.srs"
+    "gov": [
+      "https://quickserver.storage.c2.liara.space/category-gov-ir.srs",
+      "https://quickserver.storage.c2.liara.space/category-gov-ru.srs"
     ],
-    "ir":[
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
-        "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs"
-    ]    
+    "social": [
+      "https://quickserver.storage.c2.liara.space/category-social-media-!cn.srs",
+      "https://quickserver.storage.c2.liara.space/category-social-media-cn.srs",
+      "https://quickserver.storage.c2.liara.space/category-social-media-ir.srs"
+    ],
+    "crypto": [
+      "https://quickserver.storage.c2.liara.space/category-cryptocurrency.srs",
+      "https://quickserver.storage.c2.liara.space/Crypto.srs"
+    ],
+    "ir": [
+      "https://quickserver.storage.c2.liara.space/geosite-ir.srs",
+      "https://quickserver.storage.c2.liara.space/geoip-ir.srs"
+    ]
   }
 }
