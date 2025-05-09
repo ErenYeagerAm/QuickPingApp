@@ -20,7 +20,7 @@
     "telegram":"https://t.me/QuickPing/130",
     "website":"https://quickping.app/app/quick.exe"
   },
-  "remote_shield_urls_enabled":true,
+  "remote_shield_urls_enabled":false,
   "shield_urls": {
     "malware":[
         "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
