@@ -1,9 +1,11 @@
 {
   "api": "https://ccpanel-z9nz3pck8qoo3ay.zarinkar.org",
+  "web_api": "https://quickping.app/api",
   "shield": "https://cpanel-otxyu622yfme26d.zarinkar.org",
   "download": "https://cpanel-ak27jd7rkywkika.zarinkar.org",
   "websocket": "cpanel-wsapi-k92urra2te2dgrr.zarinkar.org",
   "alternative_api": "https://ccpanel-rdoiv8ae63cbnz2.netmonitoring.ir",
+  "alternative_web_api": "https://ccpanel-79bfam683mwne54.netmonitoring.ir",
   "alternative_shield": "https://cpanel-2cdhxscoaq7fyrm.netmonitoring.ir",
   "alternative_download": "https://cpanel-po5uuj792hoi626.netmonitoring.ir",
   "alternative_websocket": "cpanel-wsapi-5xonyxm7ch5dret.netmonitoring.ir",
