@@ -23,7 +23,7 @@
     "website": "https://quickping.app/app/quick.exe"
   },
   "remote_shield_urls_enabled": true,
-  "shield_urls" = {
+  "shield_urls": {
     "malware":[
         "https://quickserver.storage.c2.liara.space/geosite-malware.srs",
         "https://quickserver.storage.c2.liara.space/geoip-malware.srs",
