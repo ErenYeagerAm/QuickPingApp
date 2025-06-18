@@ -31,7 +31,7 @@
       "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
       "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/cryptominers.srs"
     ],
-    "adsـtrackers": [
+    "ads_trackers": [
       "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
       "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-ads-all.srs",
       "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-public-tracker.srs",
