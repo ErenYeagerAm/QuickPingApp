@@ -24,45 +24,45 @@
   },
   "remote_shield_urls_enabled": true,
   "shield_urls": {
-    "malware": [
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/malware.srs",
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/cryptominers.srs"
+    "malware":[
+        "https://quickserver.storage.c2.liara.space/geosite-malware.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-malware.srs",
+        "https://quickserver.storage.c2.liara.space/malware.srs",
+        "https://quickserver.storage.c2.liara.space/geosite-cryptominers.srs",
+        "https://quickserver.storage.c2.liara.space/cryptominers.srs"
     ],
-    "ads_trackers": [
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-ads-all.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-public-tracker.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/tracker.srs"
+    "ads_trackers":[
+        "https://quickserver.storage.c2.liara.space/geosite-category-ads-all.srs",
+        "https://quickserver.storage.c2.liara.space/category-ads-all.srs",
+        "https://quickserver.storage.c2.liara.space/category-public-tracker.srs",
+        "https://quickserver.storage.c2.liara.space/tracker.srs"
     ],
-    "phishing": [
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/phishing.srs"
+    "phishing":[
+        "https://quickserver.storage.c2.liara.space/geosite-phishing.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-phishing.srs",
+        "https://quickserver.storage.c2.liara.space/phishing.srs"
     ],
-    "porn": [
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-porn.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Porn.srs"
+    "porn":[
+        "https://quickserver.storage.c2.liara.space/category-porn.srs",
+        "https://quickserver.storage.c2.liara.space/Porn.srs"
     ],
-    "gov": [
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ir.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-gov-ru.srs"
+    "gov":[
+        "https://quickserver.storage.c2.liara.space/category-gov-ir.srs",
+        "https://quickserver.storage.c2.liara.space/category-gov-ru.srs"
     ],
-    "social": [
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-!cn.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-cn.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-social-media-ir.srs"
+    "social":[
+        "https://quickserver.storage.c2.liara.space/category-social-media-!cn.srs",
+        "https://quickserver.storage.c2.liara.space/category-social-media-cn.srs",
+        "https://quickserver.storage.c2.liara.space/category-social-media-ir.srs"
     ],
-    "crypto": [
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/geo/geosite/category-cryptocurrency.srs",
-      "https://github.com/KaringX/karing-ruleset/raw/refs/heads/sing/ACL4SSR/Crypto.srs"
+    "crypto":[
+        "https://quickserver.storage.c2.liara.space/category-cryptocurrency.srs",
+        "https://quickserver.storage.c2.liara.space/Crypto.srs"
     ],
-    "ir": [
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
-      "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs"
-    ]
+    "ir":[
+        "https://quickserver.storage.c2.liara.space/geosite-ir.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-ir.srs"
+    ]    
   },
   "proxy_enabled": true,
   "use_proxy_for_alternative_urls": false,
