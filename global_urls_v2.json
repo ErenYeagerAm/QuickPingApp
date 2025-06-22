@@ -34,6 +34,7 @@
   },
   "shield": {
     "enabled": true,
+    "proxy": true,
     "mode": "local",
     "urls": {
       "malware": [
