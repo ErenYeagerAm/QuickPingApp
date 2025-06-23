@@ -50,9 +50,9 @@
         "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_3.srs"
       ],
       "phishing": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_1.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_2.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_2.srs"
       ],
       "porn": [
         "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_0.srs",
