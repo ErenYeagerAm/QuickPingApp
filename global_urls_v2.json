@@ -37,43 +37,43 @@
     "mode": "local",
     "urls": {
       "malware": [
-        "https://quickserver.storage.c2.liara.space/geosite-malware.srs",
-        "https://quickserver.storage.c2.liara.space/geoip-malware.srs",
-        "https://quickserver.storage.c2.liara.space/malware.srs",
-        "https://quickserver.storage.c2.liara.space/geosite-cryptominers.srs",
-        "https://quickserver.storage.c2.liara.space/cryptominers.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_2.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_3.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_4.srs"
       ],
       "ads_trackers": [
-        "https://quickserver.storage.c2.liara.space/geosite-category-ads-all.srs",
-        "https://quickserver.storage.c2.liara.space/category-ads-all.srs",
-        "https://quickserver.storage.c2.liara.space/category-public-tracker.srs",
-        "https://quickserver.storage.c2.liara.space/tracker.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTracker_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTracker_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTracker_2.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTracker_3.srs"
       ],
       "phishing": [
-        "https://quickserver.storage.c2.liara.space/geosite-phishing.srs",
-        "https://quickserver.storage.c2.liara.space/geoip-phishing.srs",
-        "https://quickserver.storage.c2.liara.space/phishing.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phshing_2.srs"
       ],
       "porn": [
-        "https://quickserver.storage.c2.liara.space/category-porn.srs",
-        "https://quickserver.storage.c2.liara.space/Porn.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_1.srs"
       ],
       "government": [
-        "https://quickserver.storage.c2.liara.space/category-gov-ir.srs",
-        "https://quickserver.storage.c2.liara.space/category-gov-ru.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_1.srs"
       ],
       "social_media": [
-        "https://quickserver.storage.c2.liara.space/category-social-media-!cn.srs",
-        "https://quickserver.storage.c2.liara.space/category-social-media-cn.srs",
-        "https://quickserver.storage.c2.liara.space/category-social-media-ir.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_2.srs"
       ],
       "cryptocurrency": [
-        "https://quickserver.storage.c2.liara.space/category-cryptocurrency.srs",
-        "https://quickserver.storage.c2.liara.space/Crypto.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_1.srs"
       ],
       "iran": [
-        "https://quickserver.storage.c2.liara.space/geosite-ir.srs",
-        "https://quickserver.storage.c2.liara.space/geoip-ir.srs"
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_1.srs"
       ]
     }
   },
