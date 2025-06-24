@@ -82,7 +82,7 @@
     "use_for_secondary_endpoints": false,
     "use_for_shield_urls": true,
     "config": "vmess://eyJhZGQiOiIxODUuMjEyLjQ5LjQiLCJhaWQiOjAsImhvc3QiOiJibWkuaXIiLCJpZCI6IjUwZjVlZWM3LTAzY2MtNGFiZS04ZTA0LTM3ZGNiZTkwYmU2OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvYXBpL3BhbmVsL2ZXeFBKQTJ4ODN4UlNURlJKR2U4dFNRQU5mOUdVcnFTOGFhREpKWHI2dVQiLCJwb3J0Ijo4ODgwLCJwcyI6IlR1cmtleUctYXBpLXByb3h5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
-    "link": "http://wG5qgqTbz4VCKpvUrwyg:nSCvGMJZfeyU5K5ZSXr3@a.acpanel-pur72binjt9y7hr3weei.portaloflegends.org:8882",
+    "link": "http://wG5qgqTbz4VCKpvUrwyg:nSCvGMJZfeyU5K5ZSXr3@185.212.49.4:8882",
     "ip_range": "185.212.49.0/24"
   },
   "ip_check": {
