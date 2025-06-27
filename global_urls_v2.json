@@ -102,7 +102,7 @@
   "direct": {
     "enabled": true,
     "ip": ["45.129.185.0/24", "57.129.70.0/24"],
-    "domain": ["quickapiiiii.ir"],
+    "domain": ["quickapiiiii.ir", "cpanel3-2m6ebypy4g.quickapiiiii.ir", "cpanel3-goiqc7uk2s.quickapiiiii.ir", "cpanel3-fmutc3bbu4.quickapiiiii.ir"],
     "domain_regex": [],
     "port": [],
     "port_range": []
