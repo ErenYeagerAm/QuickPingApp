@@ -103,7 +103,7 @@
     "enabled": true,
     "ip": ["45.129.185.0/24", "57.129.70.0/24"],
     "domain": ["quickapiiiii.ir", "liara.space"],
-    "domain_regex": ["^(.+\\.)?quickapiiiii\\.ir$", "^(.+\.)?liara\.space$"],
+    "domain_regex": ["^(.+\\.)?quickapiiiii\\.ir$", "^(.+\\.)?liara\\.space$"],
     "port": [],
     "port_range": []
   }
