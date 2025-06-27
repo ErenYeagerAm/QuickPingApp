@@ -32,53 +32,53 @@
   "purchase": {
     "vip": "https://t.me/QuickPingBot?start=buy"
   },
-"shield": {
+  "shield": {
     "enabled": true,
     "mode": "local",
     "urls": {
       "malware": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_1.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_2.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_3.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_4.srs"
+        "https://quickserver.storage.c2.liara.space/geosite-malware.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-malware.srs",
+        "https://quickserver.storage.c2.liara.space/malware.srs",
+        "https://quickserver.storage.c2.liara.space/geosite-cryptominers.srs",
+        "https://quickserver.storage.c2.liara.space/cryptominers.srs"
       ],
       "ads_trackers": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_1.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_2.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_3.srs"
+        "https://quickserver.storage.c2.liara.space/geosite-category-ads-all.srs",
+        "https://quickserver.storage.c2.liara.space/category-ads-all.srs",
+        "https://quickserver.storage.c2.liara.space/category-public-tracker.srs",
+        "https://quickserver.storage.c2.liara.space/tracker.srs"
       ],
       "phishing": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_1.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_2.srs"
+        "https://quickserver.storage.c2.liara.space/geosite-phishing.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-phishing.srs",
+        "https://quickserver.storage.c2.liara.space/phishing.srs"
       ],
       "porn": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_1.srs"
+        "https://quickserver.storage.c2.liara.space/category-porn.srs",
+        "https://quickserver.storage.c2.liara.space/Porn.srs"
       ],
       "government": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_1.srs"
+        "https://quickserver.storage.c2.liara.space/category-gov-ir.srs",
+        "https://quickserver.storage.c2.liara.space/category-gov-ru.srs"
       ],
       "social_media": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_1.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_2.srs"
+        "https://quickserver.storage.c2.liara.space/category-social-media-!cn.srs",
+        "https://quickserver.storage.c2.liara.space/category-social-media-cn.srs",
+        "https://quickserver.storage.c2.liara.space/category-social-media-ir.srs"
       ],
       "cryptocurrency": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_1.srs"
+        "https://quickserver.storage.c2.liara.space/category-cryptocurrency.srs",
+        "https://quickserver.storage.c2.liara.space/Crypto.srs"
       ],
       "iran": [
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_0.srs",
-        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_1.srs"
+        "https://quickserver.storage.c2.liara.space/geosite-ir.srs",
+        "https://quickserver.storage.c2.liara.space/geoip-ir.srs"
       ]
     }
   },
   "proxy": {
-    "enabled": true,
+    "enabled": false,
     "use_for_secondary_endpoints": false,
     "use_for_shield_urls": true,
     "config": "vmess://eyJhZGQiOiIxODUuMjEyLjQ5LjQiLCJhaWQiOjAsImhvc3QiOiJibWkuaXIiLCJpZCI6IjUwZjVlZWM3LTAzY2MtNGFiZS04ZTA0LTM3ZGNiZTkwYmU2OCIsIm5ldCI6InRjcCIsInBhdGgiOiIvYXBpL3BhbmVsL2ZXeFBKQTJ4ODN4UlNURlJKR2U4dFNRQU5mOUdVcnFTOGFhREpKWHI2dVQiLCJwb3J0Ijo4ODgwLCJwcyI6IlR1cmtleUctYXBpLXByb3h5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==",
@@ -102,8 +102,8 @@
   "direct": {
     "enabled": true,
     "ip": ["45.129.185.0/24", "57.129.70.0/24"],
-    "domain": ["quickapiiiii.ir", "liara.space"],
-    "domain_regex": [],
+    "domain": ["quickapiiiii.ir", "liara.space", "quickserver.storage.c2.liara.space"],
+    "domain_regex": ["quickapiiiii.ir", "liara.space", "quickserver.storage.c2.liara.space"],
     "port": [],
     "port_range": []
   }
