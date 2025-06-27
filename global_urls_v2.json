@@ -101,8 +101,8 @@
   },
   "direct": {
     "enabled": true,
-    "ip": ["185.212.49.0/24", "45.129.185.0/24", "57.129.70.0/24"],
-    "domain": [],
+    "ip": ["45.129.185.0/24", "57.129.70.0/24"],
+    "domain": ["quickapiiiii.ir"],
     "domain_regex": [],
     "port": [],
     "port_range": []
