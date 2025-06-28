@@ -97,7 +97,7 @@
   "dns": {
     "enabled": true,
     "primary": "8.8.8.8",
-    "secondary": "10.202.10.11"
+    "secondary": "8.8.8.8"
   },
   "direct": {
     "enabled": true,
