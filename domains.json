@@ -1,0 +1,10 @@
+{
+  "primary": {
+    "api": "https://sms-gateway.portaloflegends.net/234e55d4c27f424c988568db5a837bbf",
+    "websocket": "wss://application.ghoghnoospay.com/"
+  },
+  "secondary": {
+    "api": "https://sms-gateway.portaloflegends.net/234e55d4c27f424c988568db5a837bbf",
+    "websocket": "wss://application.ghoghnoospay.com/"
+  }
+}
