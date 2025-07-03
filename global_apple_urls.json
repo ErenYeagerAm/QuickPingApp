@@ -82,7 +82,7 @@
     "use_for_secondary_endpoints": false,
     "use_for_shield_urls": true,
     "config": ""
-    "link": "http://wG5qgqTbz4VCKpvUrwyg:nSCvGMJZfeyU5K5ZSXr3@185.212.49.4:8882"
+    "link": ""
   },
   "ip_check": {
     "ipv4": {
@@ -96,8 +96,8 @@
   },
   "dns": {
     "enabled": true,
-    "primary": "8.8.8.8",
-    "secondary": "156.154.70.1"
+    "primary": "1.1.1.1",
+    "secondary": "8.8.8.8"
   },
   "direct": {
     "enabled": true,
