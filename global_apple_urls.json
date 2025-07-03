@@ -1,0 +1,110 @@
+{
+  "endpoints": {
+    "primary": {
+      "api": "https://ccpanel-2x9dnqm94e6ee.quickping.net",
+      "web_api": "https://quickping.net",
+      "shield": "https://ccpanel-drebvb4dv9o4w2w.quickping.net",
+      "download": "https://ccpanel-qum57z3hiz5ib6t.quickping.net",
+      "websocket": "ccpanel-kwf6f4a493tf864.quickping.net"
+    },
+    "secondary": {
+      "api": "https://ccpanel-2x9dnqm94e6ee.quickping.net",
+      "web_api": "https://quickping.net",
+      "shield": "https://ccpanel-drebvb4dv9o4w2w.quickping.net",
+      "download": "https://ccpanel-qum57z3hiz5ib6t.quickping.net",
+      "websocket": "ccpanel-kwf6f4a493tf864.quickping.net"
+    }
+  },
+  "downloads": {
+    "android": {
+      "google_play": "",
+      "telegram": "",
+      "website": ""
+    },
+    "ios": {
+      "app_store": "https://apps.apple.com/us/app/"
+    },
+    "windows": {
+      "telegram": "",
+      "website": ""
+    }
+  },
+  "purchase": {
+    "vip": ""
+  },
+  "shield": {
+    "enabled": true,
+    "mode": "local",
+    "urls": {
+      "malware": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_2.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_3.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Malware_4.srs"
+      ],
+      "ads_trackers": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_2.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/AdsTrackers_3.srs"
+      ],
+      "phishing": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Phishing_2.srs"
+      ],
+      "porn": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Porn_1.srs"
+      ],
+      "government": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Government_1.srs"
+      ],
+      "social_media": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_1.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Social_2.srs"
+      ],
+      "cryptocurrency": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Crypto_1.srs"
+      ],
+      "iran": [
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_0.srs",
+        "https://ccpanel-qum57z3hiz5ib6t.quickping.net/geo-cdn/Ir_1.srs"
+      ]
+    }
+  },
+  "proxy": {
+    "enabled": false,
+    "use_for_secondary_endpoints": false,
+    "use_for_shield_urls": true,
+    "config": ""
+    "link": "http://wG5qgqTbz4VCKpvUrwyg:nSCvGMJZfeyU5K5ZSXr3@185.212.49.4:8882"
+  },
+  "ip_check": {
+    "ipv4": {
+      "primary": "https://api.ipify.org",
+      "secondary": "https://api.ipify.org"
+    },
+    "ipv6": {
+      "primary": "https://api64.ipify.org",
+      "secondary": "https://api64.ipify.org"
+    }
+  },
+  "dns": {
+    "enabled": true,
+    "primary": "8.8.8.8",
+    "secondary": "156.154.70.1"
+  },
+  "direct": {
+    "enabled": true,
+    "ip": ["185.212.49.0/24", "57.129.70.0/24", "45.129.185.0/24"],
+    "domain": [],
+    "domain_regex": [],
+    "port": [],
+    "port_range": []
+  }
+}
