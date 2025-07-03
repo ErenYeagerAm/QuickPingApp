@@ -81,7 +81,7 @@
     "enabled": false,
     "use_for_secondary_endpoints": false,
     "use_for_shield_urls": true,
-    "config": ""
+    "config": "",
     "link": ""
   },
   "ip_check": {
