@@ -33,9 +33,9 @@
     "vip": ""
   },
   "shield": {
-    "platform": [
+    "platforms": {
       "ios": true
-    ],
+    },
     "mode": "local",
     "urls": {
       "malware": [
